@@ -4,12 +4,11 @@
 
 typedef enum
 {
-	wall,
-	floor,
-	stair,
-	cone
+	Wall,
+	Floor,
+	Stair,
+	Cone
 }FortniteBuilds;
-
 typedef enum
 {
 	Slot1,
@@ -34,9 +33,9 @@ typedef enum
 	Bosnian = true,
 	Finnish = true,
 	Swedish = true,
-	Norwaeaigan = true,
+	Norwegian = true,
 	Georgian = true,
-	Tai = true,
+	Thai = true,
 	Taiwanese = true,
 	Chinese = true,
 	Japanese = true,
