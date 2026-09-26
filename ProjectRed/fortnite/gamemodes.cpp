@@ -11,7 +11,7 @@ namespace ProjectRed
 
 		map<string, string> Duos
 		{
-			{"Duos", "https://projected.net/gamemodes/duos"}
+			{"Duos", "https://projectred.net/gamemodes/duos"}
 		};
 
 		map<string, string> Trios
